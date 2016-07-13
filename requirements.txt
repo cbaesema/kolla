@@ -12,3 +12,4 @@ graphviz>=0.4.0 # MIT License
 beautifulsoup4 # MIT
 setuptools!=24.0.0,>=16.0 # PSF/ZPL
 pycrypto>=2.6 # Public Domain
+markupsafe>=0.18 # BSD License (3 clause)
